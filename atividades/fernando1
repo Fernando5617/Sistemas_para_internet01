@@ -1,0 +1,21 @@
+<html>
+<head>
+    <title>O que é host?</title>
+   
+     <h1>Um host é um computador ligado à rede com domínio e IP fixos. Esse computador fornece recursos e serviços para sites, blogs ou aplicativos. É onde dados, arquivos e informações são hospedados e disponibilizados para acesso pela Internet. De uma forma mais resumida: host é local em que os sites ficam hospedados.</h1>
+  <h2>Quais são os tipos de host?</h2>
+    <p>Existem diversos tipos de host. Abaixo, confira a lista com alguns tipos:</p>
+  <h2>Host de Aplicativos</h2>
+   <P>É responsável pela hospedagem de aplicativos específicos, como jogos, por exemplo, e permite que o usuário acesse e interaja com eles.</p>
+  <h3>Host de Rede</h3>
+   <p>Este é o mais conhecido de todos. Atua como ponto central para a comunicação entre dispositivos em uma rede, permitindo a transferência de dados. É onde, por exemplo, ficam hospedados os servidores de e-mail.</p>
+   <h3>Host de Nuvem</h3>
+   <p>Utiliza recursos de computação em nuvem para oferecer flexibilidade na hospedagem de dados e aplicativos. Dessa forma, o usuário pode acessar esses dados de maneira remota.</p>
+   <h4>Como funciona o host?</h4>
+   <p>O host funciona armazenando dados em servidores acessíveis pela internet. A partir disso, quando um usuário solicita informações hospedadas nesses servidores, o host processa a requisição e envia os dados de volta ao usuário.</p>
+   <h4>Qual a importância do host?</h4>
+   <p>Sem um host não é possível colocar um site no ar. Isso explica a importância de ter e saber escolher um. O host é a peça essencial na engrenagem para garantir o funcionamento pleno de sites e blogs, impactando diretamente na experiência do usuário, seja ele o dono do site ou apenas um visitante.</p>
+  
+
+   </body>
+  </html>

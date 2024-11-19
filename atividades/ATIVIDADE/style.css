@@ -1,0 +1,47 @@
+body{
+    background-color: burlywood;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-size: 30pxs;
+    padding :0;
+    margin:0;
+    text-align: justify;
+    padding: 9px;
+    margin: auto;
+}
+
+
+nav{
+    background-color: rgb(21, 18, 14);
+    padding:10px;
+}
+
+
+ul{
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+
+
+li{
+display: inline;
+text-decoration: none;}
+
+a{
+    text-decoration: none;
+    display: inline;
+    padding: 11px;
+    background-color: rgb(18, 18, 17);
+    color: aliceblue    ;
+}
+
+
+p{
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
